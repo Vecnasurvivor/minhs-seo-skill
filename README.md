@@ -1,6 +1,6 @@
 # minhs-seo: the all-in-one SEO skill for Claude Code
 
-**One skill instead of twelve.** minhs-seo is built to be the ultimate SEO toolkit for Claude Code. It was made by combining twelve specialist SEO skills into a single entry point with a router: ask for anything SEO and Claude picks the right workflow and follows it.
+**One of the best all-in-one SEO skills for Claude Code, made by combining twelve specialist skills into one ultimate toolkit.** One skill instead of twelve: ask for anything SEO and Claude picks the right workflow and follows it.
 
 ## What you get
 
